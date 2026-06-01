@@ -12,8 +12,9 @@ https://public.tableau.com/app/profile/varsha.kuchana/viz/RetailAnalyticsPlatfor
 
 ## Dashboard Preview
 
-screenshots/Retail Analytics.png
-screenshots/Retail Analytics 2.png
+![Dashboard](screenshots/RetailAnalytics.png)
+
+![Dashboard Filters](screenshots/RetailAnalytics2.png)
 
 ## Tech Stack
 
